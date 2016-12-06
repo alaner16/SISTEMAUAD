@@ -1,0 +1,16 @@
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe.config
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\bin\Debug\SISTEMA.pdb
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.FormAgregaralumno.resources
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.FormAgregarMaestro.resources
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.FormConsultaralumno.resources
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.FormConsultarmaestro.resources
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.login.resources
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Formmenu.resources
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.FormModificaralumno.resources
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.FormModificarmaestro.resources
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.Cache
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.exe
+C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.pdb
