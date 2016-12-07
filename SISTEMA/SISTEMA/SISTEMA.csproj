@@ -68,6 +68,12 @@
     <Compile Include="FormConsultaralumno.Designer.cs">
       <DependentUpon>FormConsultaralumno.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormEliminaralumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEliminaralumno.Designer.cs">
+      <DependentUpon>FormEliminaralumno.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formlogin.cs">
       <SubType>Form</SubType>
     </Compile>
