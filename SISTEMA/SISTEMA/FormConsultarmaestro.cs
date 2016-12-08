@@ -23,5 +23,20 @@ namespace SISTEMA
             Formmenu m = new Formmenu();
             m.Show();
         }
+
+        private void btn_Buscarid_Click(object sender, EventArgs e)
+        {
+            dataGridView1.DataSource = MaestroDAL.Buscar2(txt_Idmaestro.Text);
+        }
+
+        private void btn_Buscarnombr_Click(object sender, EventArgs e)
+        {
+            dataGridView1.DataSource = MaestroDAL.Buscar(txt_Nombremaestro.Text, txt_Idmaestro.Text);
+        }
+
+        private void btn_Buscartodo_Click(object sender, EventArgs e)
+        {
+            dataGridView1.DataSource = MaestroDAL.Buscar3();
+        }
     }
 }

@@ -33,5 +33,10 @@ namespace SISTEMA
         {
             dataGridView1.DataSource = AlumnoDAL.Buscar(txt_Nombre.Text, txt_Apellido.Text);
         }
+
+        private void btn_Buscartodo_Click(object sender, EventArgs e)
+        {
+            dataGridView1.DataSource = AlumnoDAL.Buscar3();
+        }
     }
 }

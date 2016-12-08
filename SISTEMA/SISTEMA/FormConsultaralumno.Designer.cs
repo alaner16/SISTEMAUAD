@@ -90,6 +90,7 @@
             this.btn_Buscartodo.TabIndex = 4;
             this.btn_Buscartodo.Text = "Buscar Todos";
             this.btn_Buscartodo.UseVisualStyleBackColor = true;
+            this.btn_Buscartodo.Click += new System.EventHandler(this.btn_Buscartodo_Click);
             // 
             // lbl_Nocuenta
             // 

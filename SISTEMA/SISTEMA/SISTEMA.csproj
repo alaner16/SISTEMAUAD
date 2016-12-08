@@ -105,6 +105,8 @@
     <Compile Include="FormModificarmaestro.Designer.cs">
       <DependentUpon>FormModificarmaestro.cs</DependentUpon>
     </Compile>
+    <Compile Include="Maestro.cs" />
+    <Compile Include="MaestroDAL.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormAgregaralumno.resx">
