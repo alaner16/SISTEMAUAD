@@ -38,3 +38,6 @@ C:\Users\Alex\Source\Repos\SISTEMAUAD3\SISTEMA\SISTEMA\obj\Debug\SISTEMA.FormMod
 C:\Users\Alex\Source\Repos\SISTEMAUAD3\SISTEMA\SISTEMA\obj\Debug\SISTEMA.FormModificarmaestro.resources
 C:\Users\Alex\Source\Repos\SISTEMAUAD3\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
 C:\Users\Alex\Source\Repos\SISTEMAUAD3\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.Cache
+C:\Users\Julio\Source\Repos\SISTEMAUAD4\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe.config
+C:\Users\Julio\Source\Repos\SISTEMAUAD4\SISTEMA\SISTEMA\obj\Debug\SISTEMA.exe
+C:\Users\Julio\Source\Repos\SISTEMAUAD4\SISTEMA\SISTEMA\obj\Debug\SISTEMA.pdb
