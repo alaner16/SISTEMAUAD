@@ -158,13 +158,13 @@
             this.rb_f.Name = "rb_f";
             this.rb_f.Size = new System.Drawing.Size(31, 17);
             this.rb_f.TabIndex = 1;
-            this.rb_f.TabStop = true;
             this.rb_f.Text = "F";
             this.rb_f.UseVisualStyleBackColor = true;
             // 
             // rb_m
             // 
             this.rb_m.AutoSize = true;
+            this.rb_m.Checked = true;
             this.rb_m.Location = new System.Drawing.Point(6, 15);
             this.rb_m.Name = "rb_m";
             this.rb_m.Size = new System.Drawing.Size(34, 17);

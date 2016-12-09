@@ -17,3 +17,6 @@ C:\Users\Adrian\Source\Repos\sistema10\SISTEMA\SISTEMA\obj\Debug\SISTEMA.pdb
 C:\Users\Alex\Source\Repos\SISTEMAUAD\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe.config
 C:\Users\Alex\Source\Repos\SISTEMAUAD\SISTEMA\SISTEMA\obj\Debug\SISTEMA.exe
 C:\Users\Alex\Source\Repos\SISTEMAUAD\SISTEMA\SISTEMA\obj\Debug\SISTEMA.pdb
+C:\Users\luisfernando\Source\Repos\SISTEMAUAD\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe.config
+C:\Users\luisfernando\Source\Repos\SISTEMAUAD\SISTEMA\SISTEMA\obj\Debug\SISTEMA.exe
+C:\Users\luisfernando\Source\Repos\SISTEMAUAD\SISTEMA\SISTEMA\obj\Debug\SISTEMA.pdb
