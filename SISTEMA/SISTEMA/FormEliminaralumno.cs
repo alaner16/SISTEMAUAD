@@ -16,5 +16,18 @@ namespace SISTEMA
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_regresar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Formmenu m = new Formmenu();
+            m.Show();
+
+        }
     }
 }
